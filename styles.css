@@ -80,6 +80,10 @@ a:hover {
 	margin-left: 2rem; 
 }
 
+.photos {
+	text-align: center;
+}
+
 .photos img {
   width: 30%;
   margin: 1.5%;
